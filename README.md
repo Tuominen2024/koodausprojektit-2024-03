@@ -23,7 +23,7 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 | Leppälehto Eero               | [Valokuva galleria sivusto](Leppälehto_Eero.md) |
 | Leveä-Aho Jani                | [Oma kotisivu](Leveä-Aho_Jani.md) |
 | Lindström Victoria            | [Small Project Management Tool 💼](Lindstrom_Victoria.md) |
-| Monena Roo                    | [-](Monena_Roo.md) |
+| Monena Roo                    | [Koodin-ikuinen-looppaus-Projekti](Monena_Roo.md) |
 | Paijo Joonatan                | [SporteContact](Paijo_Joonatan.md) |
 | Rantanen Maria                | [-](Rantanen_Maria.md) |
 | Ruohonen Marcus               | [-](Ruohonen_Marcus.md) |
